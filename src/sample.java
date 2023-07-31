@@ -1,5 +1,5 @@
 public class sample {
     public static void main (String[] age){
-        System.out.println("こんにちは");
+        System.out.println("おはよう");
     }
 }
